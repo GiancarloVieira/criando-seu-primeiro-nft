@@ -4,7 +4,7 @@
 
 ## Criação na Polygon
 
-- Não foi possível criar o Token na Plygon como mnostrado no desafio de projeto, pois, o mdesafio data de 2022 e a Polygon exige pagamento de Gas Fee.
+- Não foi possível criar o Token na Polygon como mnostrado no desafio de projeto, pois, ele data de 2022 e a Polygon exige pagamento de Gas Fee atualmente.
 
 ![alt text](image.png)
 
